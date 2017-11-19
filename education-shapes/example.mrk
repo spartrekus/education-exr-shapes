@@ -1,0 +1,24 @@
+!tex
+!gfx
+!gpath{figs}
+!ipath{~/pool/mrkdir/}
+\usepackage[margin=0.5cm]{geometry}
+\usepackage{epstopdf}
+\usepackage{enumitem}
+!packages
+
+// \pagestyle{headings}
+!begin
+!bold Example of Shapes
+
+>> Search for circle, square, triangle, rectangle, pentagon, hexagon, if present.
+ 
+// \begin{center}
+// \includegraphics[width=1.0\textwidth]{pic.png}
+// \end{center}
+
+!fig{square.eps}
+
+
+
+
