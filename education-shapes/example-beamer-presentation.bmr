@@ -1,0 +1,11 @@
+
+#include{sciences.mrk}
+!begin
+!beamer
+
+!clr
+!= Shapes
+> Example of Shapes
+- Search for circle, square, triangle, rectangle, pentagon, hexagon, if present.
+!fig{square.eps}
+
